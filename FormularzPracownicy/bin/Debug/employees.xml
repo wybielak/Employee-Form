@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ArrayOfEmployee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Employee>
+    <Name>Ksygzy</Name>
+    <Surame>Wygzy</Surame>
+    <Birthdate>2023-03-16T10:58:40</Birthdate>
+    <Salary>3500</Salary>
+    <Position>JuniorProgrammer</Position>
+    <Contract>TimeContract</Contract>
+  </Employee>
+  <Employee>
+    <Name>Jan</Name>
+    <Surame>Kowalksi</Surame>
+    <Birthdate>2020-02-26T10:58:51</Birthdate>
+    <Salary>3500</Salary>
+    <Position>Engineer</Position>
+    <Contract>MandateContract</Contract>
+  </Employee>
+</ArrayOfEmployee>
